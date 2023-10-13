@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c3b3803b-d786-4a47-996e-0bc526c17f50}</ProjectGuid>
-    <RootNamespace>Tetris</RootNamespace>
+    <ProjectGuid>{6eaddc1d-ef84-46e7-a3f6-262a1f6a7213}</ProjectGuid>
+    <RootNamespace>ConsoleApplication8</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ソース.cpp" />
+    <ClCompile Include="ConsoleApplication8.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

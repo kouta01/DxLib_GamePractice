@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c3b3803b-d786-4a47-996e-0bc526c17f50}</ProjectGuid>
-    <RootNamespace>Tetris</RootNamespace>
+    <ProjectGuid>{3048930e-ceae-4e8b-be3b-2bf6cbcc5fd4}</ProjectGuid>
+    <RootNamespace>Project6</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
